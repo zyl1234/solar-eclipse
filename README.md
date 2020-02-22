@@ -30,7 +30,7 @@ DAVIS346相机可以输出普通光学图像、事件点和相机自身惯性测
 
 普通光学相机拍摄的图像如下图所示。
 
-<img src="\picture\普光.png" alt="普光" style="zoom:67%;" />
+<img src="https://github.com/zyl1234/solar-eclipse/blob/master/picture/%E6%99%AE%E5%85%89.png" alt="普光" style="zoom:67%;" />
 
 ​                                                                      图1   普光图像
 
