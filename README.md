@@ -56,6 +56,8 @@
 
 ​		有趣的是在观测的一些时间段内拍摄的数据出现了一些引人深思的现象，如下图所示：
 
+![](https://github.com/zyl1234/solar-eclipse/raw/master/picture/IMG_8931.GIF)
+
 
 
 ![绘图1](https://github.com/zyl1234/solar-eclipse/raw/master/picture/1.png)
