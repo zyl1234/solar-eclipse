@@ -58,7 +58,7 @@ DAVIS346产生的事件点的txt文件格式为：
 
 
 
-![绘图1](C:\Users\11243\Desktop\绘图1.png)
+![绘图1](https://github.com/zyl1234/solar-eclipse/raw/master/picture/1.png)
 
 ​                                                                  图4   周期变化图像
 
@@ -70,7 +70,7 @@ DAVIS346产生的事件点的txt文件格式为：
 
 
 
-![3](C:\Users\11243\Desktop\3.png)
+![3](https://github.com/zyl1234/solar-eclipse/raw/master/picture/3.png)
 
 ​                                                                     图5   周期中图像
 
@@ -78,7 +78,7 @@ DAVIS346产生的事件点的txt文件格式为：
 
 事件点只出现在太阳光圈内之后事件点会再次逐渐向外扩散，以蓝色事件点占满整个图像为周期的起始点，如图2所示蓝色事件点像水波一样沾满整个屏幕，这种现象将会反复多次出现。
 
-![4](C:\Users\11243\Desktop\4.png)
+![4](https://github.com/zyl1234/solar-eclipse/raw/master/picture/4.png)
 
 ​                                                                   图6    周期点图像
 
